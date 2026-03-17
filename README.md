@@ -2,10 +2,10 @@
 
 ## System Requirements
 
-*Device:* Android mobile phone 
-*Operating System:* Android 8.0 (Oreo) or higher 
-*RAM:* At least 6.0 GB Storage: At least 400 MB of free storage 
-*Internet Connection:* Not required except for APK download
+**Device:** Android mobile phone \
+**Operating System:** Android 8.0 (Oreo) or higher \
+**RAM:** At least 6.0 GB Storage: At least 400 MB of free storage \
+**Internet Connection:** Not required except for APK download \
 
 ## Launching the App
 
